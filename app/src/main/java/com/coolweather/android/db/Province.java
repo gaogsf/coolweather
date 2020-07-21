@@ -10,7 +10,7 @@ public class Province extends LitePalSupport {
     private int provinceCode;//记录省的代号
 
     //方法区
-        public int getId() {
+    public int getId() {
         return id;
     }
 
